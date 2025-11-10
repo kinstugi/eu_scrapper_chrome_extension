@@ -13,7 +13,9 @@
   },
   "permissions": [
     "activeTab",
-    "scripting"
+    "scripting",
+    "tabs",
+    "storage"
   ],
   "icons": {
     "16": "icons/icon16.png",
